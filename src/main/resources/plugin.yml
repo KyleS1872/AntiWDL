@@ -1,0 +1,4 @@
+name: AntiWDL
+version: '1.0-SNAPSHOT'
+main: com.kyles1872.antiwdl.AntiWDL
+authors: [ KyleS1872 ]
